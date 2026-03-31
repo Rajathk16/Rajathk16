@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rajath K</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | 🔐 Cybersecurity Enthusiast
+🚀 Full Stack Developer | 🧠 Competitive Programming Learner
 </h3>
 
 <!-- Animated typing -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Cybersecurity+Explorer;Next.js+%7C+React+%7C+Node.js;Building+Secure+Web+Applications;Always+Learning+New+Things..." />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Competitive+Programming+Learner;Next.js+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications;Always+Improving+Problem+Solving..." />
 </p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 # 🚀 About Me
 
 - 🔭 Building: **Scalable Ecommerce Platform**
-- 🌱 Learning: **Cybersecurity, Network Security, Security Tools**
-- 🤝 Open to: **AI-based Intrusion Detection Systems (AI-IDS)**
-- 💡 Interest: **Secure System Design + Full Stack Development**
+- 🌱 Learning: **Data Structures & Algorithms, Problem Solving**
+- 🤝 Open to: **Collaborations in Full Stack & CP**
+- 💡 Interest: **Scalable System Design + Clean Code**
 - 📫 Reach me: **rajathkjogi01@gmail.com**
 
 ---
@@ -67,14 +67,14 @@
 <img src="https://skillicons.dev/icons?i=cpp,c,java" />
 </p>
 
-## 🔐 Cybersecurity & Tools
+## 🧠 Competitive Programming
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,postman" />
+<img src="https://skillicons.dev/icons?i=cpp" />
 </p>
 
-## 🎨 Design & Other Tools
+## 🛠️ Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma,arduino,unity" />
+<img src="https://skillicons.dev/icons?i=git,postman,linux" />
 </p>
 
 ---
@@ -124,5 +124,5 @@
 # ⚡ Fun Fact
 
 <p align="center">
-💡 I love building <b>secure, scalable full-stack applications</b> and exploring <b>cybersecurity tools</b>.
+💡 I enjoy solving <b>DSA problems</b> and building <b>scalable full-stack applications</b>.
 </p>
