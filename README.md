@@ -1,126 +1,174 @@
-# 🚀 About Me
+# <h1 align="center">Hi 👋, I'm Rajath K Jogi</h1>
 
-I'm a Computer Science student passionate about Software Development, Artificial Intelligence, Full Stack Development, and Problem Solving.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;AI+%26+Cybersecurity+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things" />
+</p>
 
-- 🔭 Currently working on open-source and academic projects
-- 🌱 Learning Advanced Data Structures, System Design, and AI Applications
-- 💻 Interested in Full Stack Development and Cybersecurity
-- 🤝 Open to collaborations on innovative software projects
-- 📚 Constantly exploring new technologies and development practices
-- ⚡ Focused on writing clean, scalable, and maintainable code
-
----
-
-# 🛠️ Technical Skills
-
-### Programming Languages
-- C++
-- Java
-- Python
-- JavaScript
-- TypeScript
-
-### Frontend Development
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Bootstrap
-- Tailwind CSS
-
-### Backend Development
-- Node.js
-- Express.js
-- REST APIs
-
-### Database Technologies
-- MySQL
-- MongoDB
-- Firebase
-
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Linux
-- Postman
-
-### Core Computer Science
-- Data Structures & Algorithms
-- Object Oriented Programming
-- DBMS
-- Computer Networks
-- Operating Systems
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Rajathk16&label=PROFILE+VIEWS&style=for-the-badge&color=blue"/>
+</p>
 
 ---
 
-# 💼 Featured Projects
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-## 📱 DroidWatch AI
-Android malware analysis and monitoring system designed to identify suspicious activities and improve mobile security.
+## 🚀 About Me
 
-### Key Features
-- Malware behavior analysis
-- Threat detection
-- Security monitoring
-- Automated reporting
-
----
-
-## 🌐 HACKOPS
-Collection of academic, cybersecurity, web development, and software engineering projects developed throughout university coursework and self-learning.
-
-### Highlights
-- Full Stack Development
-- Java Applications
-- C++ Projects
-- Security Experiments
-- Open Source Contributions
-
----
-
-# 📊 GitHub Statistics
-
-- Total Contributions: 1000+
-- Active Open Source Contributor
-- Consistent Development Streak
-- Multiple Public Repositories
+```yaml
+Name: Rajath K Jogi
+Role: Computer Science Student
+Focus: Software Development
+Interests:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Cybersecurity
+  - Problem Solving
+Learning:
+  - Advanced DSA
+  - System Design
+  - Cloud Computing
+Open To:
+  - Open Source
+  - Collaborations
+  - Innovative Projects
+```
 
 ---
 
-# 🏆 Achievements
+## 🧠 Core Computer Science
 
-- Successfully completed multiple academic and industrial projects
-- Active participant in hackathons and coding challenges
-- Developed AI and Machine Learning based solutions
-- Experience working with collaborative Git workflows
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/Data_Structures-00599C?style=for-the-badge"/>
 
-# 📚 Currently Learning
+<img src="https://img.shields.io/badge/Algorithms-0088CC?style=for-the-badge"/>
 
-- Advanced DSA
-- System Design
-- Cloud Computing
-- Artificial Intelligence
-- Software Architecture
+<img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge"/>
 
-# 🎯 Career Objective
+<img src="https://img.shields.io/badge/Operating_Systems-4CAF50?style=for-the-badge"/>
 
-Aspiring Software Engineer focused on building scalable applications, solving real-world problems, and contributing to impactful technology solutions.
+<img src="https://img.shields.io/badge/Computer_Networks-673AB7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Software_Engineering-E91E63?style=for-the-badge"/>
+
+</p>
 
 ---
 
-# 🌐 Connect With Me
+## 💻 Programming Languages
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/rajathkjogi/)) •
-[Portfolio](YOUR_PORTFOLIO_URL) •
-[Email](mailto:rajathkjogi01@gmail.com)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript"/>
+</p>
 
 ---
 
-# ⚡ Fun Fact
+## 🎨 Frontend Development
 
-I enjoy transforming ideas into working software and continuously improving my coding skills through hands-on projects and open-source contributions.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind"/>
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+---
+
+## 🗄️ Database & Cloud
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rajathk16&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajathk16&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Rajathk16&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajathk16&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Rajathk16/Rajathk16/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Advanced_DSA-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System_Design-black?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud_Computing-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rajathkjogi/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rajathkjogi01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">🚀 Building • Learning • Growing 🚀</h3>
