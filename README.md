@@ -1,128 +1,126 @@
-<h1 align="center">Hi 👋, I'm Rajath K</h1>
-
-<h3 align="center">
-🚀 Full Stack Developer | 🧠 Competitive Programming Learner
-</h3>
-
-<!-- Animated typing -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=26&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Competitive+Programming+Learner;Next.js+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications;Always+Improving+Problem+Solving..." />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=rajathk16&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
-</p>
-
----
-
 # 🚀 About Me
 
-- 🔭 Building: **Scalable Ecommerce Platform**
-- 🌱 Learning: **Data Structures & Algorithms, Problem Solving**
-- 🤝 Open to: **Collaborations in Full Stack & CP**
-- 💡 Interest: **Scalable System Design + Clean Code**
-- 📫 Reach me: **rajathkjogi01@gmail.com**
+I'm a Computer Science student passionate about Software Development, Artificial Intelligence, Full Stack Development, and Problem Solving.
+
+- 🔭 Currently working on open-source and academic projects
+- 🌱 Learning Advanced Data Structures, System Design, and AI Applications
+- 💻 Interested in Full Stack Development and Cybersecurity
+- 🤝 Open to collaborations on innovative software projects
+- 📚 Constantly exploring new technologies and development practices
+- ⚡ Focused on writing clean, scalable, and maintainable code
 
 ---
 
-# 🌐 Connect With Me
+# 🛠️ Technical Skills
 
-<p align="center">
+### Programming Languages
+- C++
+- Java
+- Python
+- JavaScript
+- TypeScript
 
-<a href="https://www.linkedin.com/in/rajathkjogi/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
+### Frontend Development
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Bootstrap
+- Tailwind CSS
 
-<a href="https://leetcode.com/u/rajath_k16/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
-</a>
+### Backend Development
+- Node.js
+- Express.js
+- REST APIs
 
-<a href="https://www.hackerrank.com/profile/rajathkjogi01">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank" />
-</a>
+### Database Technologies
+- MySQL
+- MongoDB
+- Firebase
 
-</p>
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Linux
+- Postman
 
----
-
-# 🛠️ Tech Stack
-
-## 🎨 Frontend Development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
-
-## ⚙️ Backend Development
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-## 🗄️ Database & Cloud
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
-</p>
-
-## 💻 Programming Languages
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,java" />
-</p>
-
-## 🧠 Competitive Programming
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp" />
-</p>
-
-## 🛠️ Tools
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,postman,linux" />
-</p>
+### Core Computer Science
+- Data Structures & Algorithms
+- Object Oriented Programming
+- DBMS
+- Computer Networks
+- Operating Systems
 
 ---
 
-# 📊 GitHub Stats
+# 💼 Featured Projects
 
-<p align="center">
+## 📱 DroidWatch AI
+Android malware analysis and monitoring system designed to identify suspicious activities and improve mobile security.
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajathk16&show_icons=true&theme=tokyonight&border_radius=10" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajathk16&layout=compact&theme=tokyonight&border_radius=10" height="170"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajathk16&theme=tokyonight&border_radius=10"/>
-
-</p>
+### Key Features
+- Malware behavior analysis
+- Threat detection
+- Security monitoring
+- Automated reporting
 
 ---
 
-# 📈 Contribution Graph
+## 🌐 HACKOPS
+Collection of academic, cybersecurity, web development, and software engineering projects developed throughout university coursework and self-learning.
 
-<p align="center">
+### Highlights
+- Full Stack Development
+- Java Applications
+- C++ Projects
+- Security Experiments
+- Open Source Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajathk16&theme=tokyo-night&area=true&hide_border=true"/>
+---
 
-</p>
+# 📊 GitHub Statistics
+
+- Total Contributions: 1000+
+- Active Open Source Contributor
+- Consistent Development Streak
+- Multiple Public Repositories
 
 ---
 
 # 🏆 Achievements
 
-<p align="center">
+- Successfully completed multiple academic and industrial projects
+- Active participant in hackathons and coding challenges
+- Developed AI and Machine Learning based solutions
+- Experience working with collaborative Git workflows
 
-<img src="https://github-profile-trophy.vercel.app/?username=rajathk16&theme=tokyonight&no-frame=true&row=1&margin-w=15"/>
+---
 
-</p>
+# 📚 Currently Learning
+
+- Advanced DSA
+- System Design
+- Cloud Computing
+- Artificial Intelligence
+- Software Architecture
+
+---
+
+# 🎯 Career Objective
+
+Aspiring Software Engineer focused on building scalable applications, solving real-world problems, and contributing to impactful technology solutions.
+
+---
+
+# 🌐 Connect With Me
+
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/rajathkjogi/)) •
+[Portfolio](YOUR_PORTFOLIO_URL) •
+[Email](mailto:rajathkjogi01@gmail.com)
 
 ---
 
 # ⚡ Fun Fact
 
-<p align="center">
-💡 I enjoy solving <b>DSA problems</b> and building <b>scalable full-stack applications</b>.
-</p>
+I enjoy transforming ideas into working software and continuously improving my coding skills through hands-on projects and open-source contributions.
